@@ -1,0 +1,26 @@
+/* 
+  Info.strings
+  ABX
+
+  Created by Smartbox on 11/11/2018.
+  Copyright © 2018 ABX. All rights reserved.
+*/
+
+"transaction.outgoing" = "outgoing";
+"transaction.incoming" = "incoming";
+
+"transaction.detail.contra.account.number" = "account number";
+"transaction.detail.contra.account.name" = "account name";
+"transaction.detail.contra.account.bank.code" = "bank code";
+
+"filter.outgoing" = "Outgoing";
+"filter.incoming" = "Incoming";
+"filter.all" = "All";
+
+"button.close" = "Close";
+"button.filter" = "Filter";
+
+"network.default.error.title" = "Error";
+"network.default.error.text" = "Please try later";
+
+"ok" = "OK";
